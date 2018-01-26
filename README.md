@@ -2,7 +2,7 @@
 Snake game with bombs and power ups
 
 # Rules
- The newest bomb kills you, the rest don't do anything so keep track of them
+ The newest bomb kills you, the rest don't do anything so keep track of them \n
  Food gives you +1 score and adds the lenght by one
  You hit a wall, you die
  You eat yourself, you die
